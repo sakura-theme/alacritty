@@ -1,4 +1,5 @@
-# alacritty
+# sakura for Alacritty
+
 🌸 sakura theme for Alacritty
 
 ![screenshot](https://github.com/sakura-theme/alacritty/blob/main/screenshot.png)
@@ -11,7 +12,7 @@ Clone this repository.
 git clone https://github.com/sakura-theme/alacritty.git ~/path/to
 ```
 
-Add following lines to `~/.config/alacritty/alacritty.yml`
+Add following lines to `~/.config/alacritty/alacritty.yml`.
 
 ```
 import:
