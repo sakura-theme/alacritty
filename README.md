@@ -1,6 +1,8 @@
 # alacritty
 🌸 sakura theme for Alacritty
 
+![screenshot](https://github.com/sakura-theme/alacritty/blob/main/screenshot.png)
+
 ## Installation
 
 Clone this repository.
