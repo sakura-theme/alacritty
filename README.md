@@ -9,7 +9,7 @@
 Clone this repository.
 
 ```
-git clone https://github.com/sakura-theme/alacritty.git ~/path/to
+git clone https://github.com/sakura-theme/alacritty.git ~/path/to/alacritty
 ```
 
 Add following lines to `~/.config/alacritty/alacritty.yml`.
